@@ -1,0 +1,19 @@
+{"gpus": {
+    "3070": [
+        {"item_number":"", "url":""},
+        {"item_number":"", "url":""},
+        {"item_number":"", "url":""}
+
+    ],
+    "3080": [
+        {"item_number":"14-126-452", "url":"https://www.newegg.com/asus-geforce-rtx-3080-tuf-rtx3080-o10g-gaming/p/N82E16814126452?Description=3080%20graphics%20cards&cm_re=3080_graphics%20cards-_-14-126-452-_-Product&quicklink=true"},
+        {"item_number":"14-126-457", "url":"https://www.newegg.com/asus-geforce-rtx-3080-rog-strix-rtx3080-o10g-gaming/p/N82E16814126457?Description=3080%20graphics%20cards&cm_re=3080_graphics%20cards-_-14-126-457-_-Product"},
+        {"item_number":"14-932-337", "url":"https://www.newegg.com/gigabyte-geforce-rtx-3080-gv-n3080vision-oc-10gd/p/N82E16814932337?Description=3080%20graphics%20cards&cm_re=3080_graphics%20cards-_-14-932-337-_-Product"}
+    ],
+    "3090": [
+        {"item_number":"", "url":""},
+        {"item_number":"", "url":""},
+        {"item_number":"", "url":""}
+    ]
+  }
+}

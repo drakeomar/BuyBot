@@ -1,0 +1,21 @@
+HTTP/2 200 
+content-type: text/plain; charset=utf-8
+content-length: 188
+nel: {"report_to": "default", "max_age": 2592000}`);
+report-to: {"group":"default","max-age":10886400,"include_subdomains":"true","endpoints":[{"url":"https://pf.newegg.com/csp"}]};
+x-location: E11
+x-tick: ZLzoY9Z3idluMy26c9d2Yg
+x-xss-protection: 1; report=https://pf.newegg.com/csp?source=xss
+accept-ranges: bytes
+content-security-policy: upgrade-insecure-requests
+expires: Wed, 10 Mar 2021 20:37:39 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Wed, 10 Mar 2021 20:37:39 GMT
+set-cookie: NVTC=248326808.0001.yl6e5m4a9.1615407004.1615407004.1615408660.2; Expires=Sat, 09-Mar-24 20:37:39 GMT; Domain=newegg.com; Path=/; Secure
+set-cookie: NID=1j728O0M6I9D4M1j8O1cef954f0e7e1413b52bf91eff4d03c5b; Expires=Sat, 09-Mar-24 20:37:39 GMT; Domain=newegg.com; Path=/; Secure
+set-cookie: NV_NVTCTIMESTAMP=1615408660; Expires=Sat, 09-Mar-24 20:37:39 GMT; Domain=newegg.com; Path=/; Secure
+set-cookie: NSC_mc-tfdvsf.ofxfhh.dpn-ttm=5ccba3d87a48996e4086c61eb85a30bda2fb8a3b9cf7de9c611100f3a7aeda0779fef01f;expires=Wed, 10-Mar-2021 21:07:39 GMT;path=/;secure
+strict-transport-security: max-age=31536000
+
+{"SessionID":"GZUPAI3LAXMBPK820244","NotifyItemList":[],"HasAcademicItem":false,"Result":"Success","MessageEntitys":[{"MessageCode":"Success","Description":"Success","MessageDatas":null}]}
